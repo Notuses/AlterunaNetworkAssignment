@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acbf23252b8338d4ab5650358a0aa4dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Multiplayer: {instanceID: 0}
+  - UID: {instanceID: 0}
+  - HealthBar: {instanceID: 0}
+  - Worldmanager: {fileID: 5180205229018151374, guid: 414a71e754e62e34b9804997f50ba9e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

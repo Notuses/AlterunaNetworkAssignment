@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mask_Uppertorso
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: LizardWizardRig
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/lowerLeg.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/lowerLeg.L/lowerLeg.L.001
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/lowerLeg.L/lowerLeg.L.001/foot.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/lowerLeg.L/lowerLeg.L.001/foot.L/LeftToe.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/lowerLeg.L/lowerLeg.L.001/foot.L/RightToe.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/pantClothBack.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.L/upperLeg.L/pantClothFront.L
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/lowerLeg.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/lowerLeg.R/lowerLeg.R.001
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/lowerLeg.R/lowerLeg.R.001/foot.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/lowerLeg.R/lowerLeg.R.001/foot.R/LeftToe.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/lowerLeg.R/lowerLeg.R.001/foot.R/RightToe.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/pantClothBack.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/hipBone.R/upperLeg.R/pantClothFront.R
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/spine.001
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/backHatBrim
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/frontHatBrim
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/hatBone.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/hatBone.001/hatBone.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/sideHatBrim.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/neck/neck.001/neck.002/head/hatBone/sideHatBrim.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/ScarfBack
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/ScarfFront
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/ArmClothBack.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/ArmClothFront.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handItem.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToIndexFinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToIndexFinger.L/indexFinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToIndexFinger.L/indexFinger.L/indexFinger.L.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToIndexFinger.L/indexFinger.L/indexFinger.L.001/indexFinger.L.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToMiddlefinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToMiddlefinger.L/middleFinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToMiddlefinger.L/middleFinger.L/middleFinger.L.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToMiddlefinger.L/middleFinger.L/middleFinger.L.001/middleFinger.L.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToPinkie.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToPinkie.L/pinkie.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToPinkie.L/pinkie.L/pinkie.L.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToPinkie.L/pinkie.L/pinkie.L.001/pinkie.L.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToRingfinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToRingfinger.L/ringFinger.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToRingfinger.L/ringFinger.L/ringFinger.L.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToRingfinger.L/ringFinger.L/ringFinger.L.001/ringFinger.L.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToThumb.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToThumb.L/thumb.L
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToThumb.L/thumb.L/thumb.L.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.L/upperArm.L/lowerArm.L/hand.L/handToThumb.L/thumb.L/thumb.L.001/thumb.L.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/ArmClothBack.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/ArmClothFront.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handItem.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToIndexFinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToIndexFinger.R/indexFinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToIndexFinger.R/indexFinger.R/indexFinger.R.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToIndexFinger.R/indexFinger.R/indexFinger.R.001/indexFinger.R.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToMiddlefinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToMiddlefinger.R/middleFinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToMiddlefinger.R/middleFinger.R/middleFinger.R.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToMiddlefinger.R/middleFinger.R/middleFinger.R.001/middleFinger.R.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToPinkie.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToPinkie.R/pinkie.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToPinkie.R/pinkie.R/pinkie.R.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToPinkie.R/pinkie.R/pinkie.R.001/pinkie.R.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToRingfinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToRingfinger.R/ringFinger.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToRingfinger.R/ringFinger.R/ringFinger.R.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToRingfinger.R/ringFinger.R/ringFinger.R.001/ringFinger.R.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToThumb.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToThumb.R/thumb.R
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToThumb.R/thumb.R/thumb.R.001
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/spine.001/spine.002/spine.003/spine.004/shoulder.R/upperArm.R/lowerArm.R/hand.R/handToThumb.R/thumb.R/thumb.R.001/thumb.R.002
+    m_Weight: 1
+  - m_Path: LizardWizardRig/Bone/tail
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001/tail.002
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001/tail.002/tail.003
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001/tail.002/tail.003/tail.004
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001/tail.002/tail.003/tail.004/tail.005
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/tail/tail.001/tail.002/tail.003/tail.004/tail.005/tail.006
+    m_Weight: 0
+  - m_Path: LizardWizardRig/Bone/TorsoWiggle
+    m_Weight: 0
+  - m_Path: TorsoMeshMirrorApplied
+    m_Weight: 0
